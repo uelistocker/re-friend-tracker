@@ -21,6 +21,7 @@ export class ExampleTranslationService extends TranslationService {
             "Activity": "Activity",
             "AddActivity": "Add Activity",
             "Activities" : "Activities",
+            "ActivityName": "Activity Name",
             "Birthday" : "Birthday",
             "Comments" : "Comments",
             "CreationDate" : "Creation Date",
